@@ -71,3 +71,9 @@
 - Class 43 : Ethics - Flux Architecture, Context API - 
 - Class 44 : Open Source Software - React Native, Expo - 15 in favor
 - Class 45 : Final Project Kick Off
+
+
+
+### lectures
+
+[lectures video](https://alqudscollege-my.sharepoint.com/personal/advtech_ltuc_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadvtech%5Fltuc%5Fcom%2FDocuments%2FAcademia%2FCourses%2FCode%20Fellows%20Courses%2FRecorded%20Lectures%2F401%2FPython%2Famman%2Dpython%2D401d6&ga=1)
